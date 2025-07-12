@@ -1,4 +1,4 @@
-# 🇻🇳 Vietnamese Chatbot with LLaMA + RLHF + vLLM
+# Vietnamese Chatbot with LLaMA + RLHF + vLLM
 
 This project showcases the complete workflow for building and serving a Vietnamese large language model (LLM) chatbot. The pipeline includes instruction tuning, reward modeling, reinforcement learning (PPO), and deployment with vLLM.
 
